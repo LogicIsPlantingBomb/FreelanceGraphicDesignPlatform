@@ -26,8 +26,6 @@ The current implementation includes these core features:
 4. **Transparent History**: All project interactions are recorded on the blockchain, creating an immutable history.
 
 ## ScreenShots
-![deployment](https://github.com/user-attachments/assets/e6cb3290-2b41-4edc-a421-8117be4f4782)
-![projectCompleition](https://github.com/user-attachments/assets/408b8d12-74c2-43d3-8e2e-4ac056beca01)
 
 
 The smart contract specifically provides:
