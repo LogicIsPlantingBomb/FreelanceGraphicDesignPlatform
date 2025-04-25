@@ -1,0 +1,14 @@
+[package]
+name = "freelance-design"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+soroban-sdk = "20.0.0"  # Version may vary
+
+[lib]
+crate-type = ["cdylib"]  # This line is crucial for WASM output
+
+[profile.release]
+opt-level = "z"  # Optimize for smallest size
+lto = true       # Enable link-time optimization
