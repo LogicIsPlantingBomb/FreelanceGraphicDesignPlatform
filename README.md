@@ -27,6 +27,10 @@ The current implementation includes these core features:
 
 ## ScreenShots
 
+![Screenshot_2025-04-25_11-47-48](https://github.com/user-attachments/assets/ddc4a7e7-286f-40f6-98e5-e3e989d0e939)
+
+![Screenshot_2025-04-25_11-45-25](https://github.com/user-attachments/assets/165ea606-4f17-4939-950c-4b092c082bcd)
+
 
 The smart contract specifically provides:
 
