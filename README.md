@@ -1,4 +1,4 @@
-# Freelance Graphic Design Platform - Smart Contract
+# Freelance Graphic Design Platform - Smart Contract.
 
 ## Project Title
 Freelance Graphic Design Platform
